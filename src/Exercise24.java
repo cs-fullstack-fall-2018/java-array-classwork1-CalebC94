@@ -10,6 +10,7 @@ public class Exercise24 {
         System.out.println(numberList.get(1));
         numberList.remove(2);
         System.out.println(numberList.get(1));
+        System.out.println(numberList);
 
     }
 
